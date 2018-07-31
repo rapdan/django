@@ -1,5 +1,6 @@
 *.pyc
+Lib/
 Include/
 Scripts/
-../pip-selfcheck.json
-../tcl/
+pip-selfcheck.json
+tcl/
